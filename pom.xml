@@ -3,9 +3,7 @@
 	        <groupId>org.apache.commons</groupId>
 	        <artifactId>commons-lang3</artifactId>
 	        <version>3.21.0</version>
-	    </dependency>
-	
-	    <!-- LGPL test candidate -->
+	    </depende
 	    <dependency>
 	        <groupId>org.xwiki.commons</groupId>
 	        <artifactId>xwiki-commons-diff-script</artifactId>
